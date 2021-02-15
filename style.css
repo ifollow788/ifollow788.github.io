@@ -228,7 +228,19 @@
     text-align: center;
 
   }
+  h3{
+    padding-top: 5%;
+    text-align: center;
+    
+  }
 
   #testimonials {
     padding: 7% 15%;
+  }
+  .fa {
+    margin: 10px;
+  }
+  .row {
+    margin-top: -5%;
+    text-align: center;
   }
