@@ -9,16 +9,22 @@
 
 h2 {
     text-align: center;
-    padding: 2rem;
+    padding: 1rem;
 }
-#card-group {
-    margin:0 auto;
-    display: flex;
-    width: auto;
+.img-fluid{
+    position: relative;
+    width: 100%;
 }
-.card {
-    padding: 15px;
-    margin: 15px;
+#categories {
+  padding: 20px;
+  text-align: center;
+}
+.categories-column{
+  margin: 0 auto;
+  
+}
+.btn{
+  position: relative;
 }
 #footer {
     color: #ffffff;
@@ -180,5 +186,3 @@ h2 {
     color: #fff;
     text-decoration: none;
   }
-
-  
