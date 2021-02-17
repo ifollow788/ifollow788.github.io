@@ -23,9 +23,12 @@ h2 {
   margin: 0 auto;
   
 }
-.btn{
-  position: relative;
+.downloads-column{
+  margin: 0 auto;
+  padding: 15px 15px;
 }
+
+
 #footer {
     color: #ffffff;
     font-size: 14px;
@@ -185,4 +188,10 @@ h2 {
     background: #3ac162;
     color: #fff;
     text-decoration: none;
+  }
+
+@media (max-width: 765px) {
+    .card {
+      text-align: center;
+    }
   }
