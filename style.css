@@ -1,68 +1,25 @@
+.carousel-item {
+    height: 400px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
-#main {
-    background-image: url("/img/1567666.png");
-    
-}
-#downloads {
-  
-}
-
-.img {
-     text
-    display: block;
-    position: absolute;
-    width: 100px;
-    height: auto;
-    margin: -3% 39% -3% 39%;
-    
-    
-}
-.navbar img {
-    width: 30px;
-}
-
-h1{
-  text-align: center;
-  padding: 45px 45px;
-}
-.section-title h2{
-    display: block;
+h2 {
     text-align: center;
-    text-transform: uppercase;
-}
-.container {
-    
-    padding: 100px;
-    
-}
-.btn {
-    display: block;
-    margin: 0 auto 0 auto;
+    padding: 2rem;
 }
 #card-group {
-    margin-top: -30px;
+    margin:0 auto;
     display: flex;
-    margin-left: 18%;      
-    margin-right: 18%;
     width: auto;
 }
 .card {
-    margin-right: 40px;
-    margin-left: 40px ;
-
+    padding: 15px;
+    margin: 15px;
 }
-.aboutus {
-    margin-top: 2%;
-    border: black 1px solid;
-    width: 100%;
-
-}
-.aboutus h2{
-    display: block;
-    text-align: center;
-    text-transform: uppercase;
-}
-
 #footer {
     color: #ffffff;
     font-size: 14px;
@@ -223,19 +180,5 @@ h1{
     color: #fff;
     text-decoration: none;
   }
-  h3{
-    padding-top: 5%;
-    text-align: center;
-    
-  }
 
-  #testimonials {
-    padding: 7% 15%;
-  }
-  .fa {
-    margin: 10px;
-  }
-  .row {
-    margin-top: -5%;
-    text-align: center;
-  }
+  
